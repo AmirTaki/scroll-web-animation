@@ -29,3 +29,12 @@ header{
 header img {
     height: 40px;
 }
+
+.banner .content {
+    font-family: "Odibee Sans", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap
+
+}
