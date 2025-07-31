@@ -171,4 +171,7 @@ footer .content {
     header img {
         height: 2em;
     }
+    .banner .content h1 {
+        font-size: 12em;
+    }
 }
