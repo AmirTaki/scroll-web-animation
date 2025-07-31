@@ -38,3 +38,11 @@ header img {
     flex-wrap: wrap
 
 }
+.banner .content h1 {
+    font-size: 17em;
+}
+
+.banner .content .right {
+    text-align: right;
+    transform: translateY(-30px);
+}
