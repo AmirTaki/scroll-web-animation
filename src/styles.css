@@ -85,3 +85,10 @@ header img {
     grid-column: 3/5;
     grid-row: 1
 }
+.grid-1 h2:nth-child(3){
+    font-size: 7em;
+    grid-column: 1/7;
+    text-align: center;
+    grid-row: 5;
+    z-index: 1;
+}
