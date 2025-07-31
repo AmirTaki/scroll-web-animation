@@ -9,3 +9,9 @@ body {
     color: #2E373A;
     font-family: "Libre Baskerville", sans-serif;
 }
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
