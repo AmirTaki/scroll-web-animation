@@ -2,3 +2,10 @@
 html, body{
     scroll-behavior: smooth;
 }
+body {
+    background-color: #CBCBCB;
+    margin : 0;
+    font-size: 14px;
+    color: #2E373A;
+    font-family: "Libre Baskerville", sans-serif;
+}
