@@ -141,3 +141,8 @@ footer {
     border-top: 1px solid #2E3773A5;
     min-height: 100vh;
 }
+footer .content {
+    width : min(1400px, 100vw);
+    margin: auto;
+    padding: 100px 20px;
+}
