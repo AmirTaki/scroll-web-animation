@@ -162,3 +162,13 @@ footer .content {
     grid-row: 3;
     grid-column: 5/7;
 }
+.grid-5 div:nth-child(4){
+    grid-row : 1;
+    grid-column:  5/7;
+}
+
+@media screen and (max-width : 1023px) {
+    header img {
+        height: 2em;
+    }
+}
