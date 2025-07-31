@@ -46,3 +46,8 @@ header img {
     text-align: right;
     transform: translateY(-30px);
 }
+
+.banner .content .right h2{
+    font-size: 7em;
+    font-weight: 200;
+}
