@@ -76,3 +76,8 @@ header img {
     margin-top: 50px;
     gap: 50px;
 }
+
+.grid-1 figure:nth-child(1){
+    grid-column: 2/6;
+    grid-row: 1;
+}
