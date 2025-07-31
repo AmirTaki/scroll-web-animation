@@ -123,7 +123,10 @@ header img {
     font-size: 10em;
 }
 .grid-3 div{
-    background-color: yellow;
     grid-column: 2/6;
     text-wrap: nowrap;
+}
+
+.grid-3 div:nth-child(even){
+    text-align: right;
 }
