@@ -186,4 +186,8 @@ footer .content {
     .grid-2 div:nth-child(4){
         grid-row: 5;
     }
+    .grid-3{
+        font-size: 5em;
+        line-height: 1em
+    }
 }
