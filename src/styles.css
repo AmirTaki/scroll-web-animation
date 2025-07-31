@@ -248,3 +248,8 @@ footer .content {
         transform: translateY(0) calc(1);
     }
 }
+
+.autoBlur {
+    animation: autoBlurAnimation linear both;
+    animation-timeline: view();
+}
