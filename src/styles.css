@@ -56,8 +56,13 @@ header img {
     height: 600px;
     background-image: url("./images/banner.jpg");
     position: relative;
-    /* left:50%;
+    
+}
+.banner .image img{
+    position: absolute;
+    height: 130%;
+    left:50%;
     transform: translateX(-50%);
     bottom: 0;
-    background-color: red; */
+  
 }
