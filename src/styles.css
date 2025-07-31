@@ -26,3 +26,6 @@ header{
     align-items: center;
     flex-wrap: wrap
 }
+header img {
+    height: 40px;
+}
